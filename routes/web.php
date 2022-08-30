@@ -20,3 +20,5 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/list', 'ProductController@list')->name('list');
+
+Route::get('/page', 'MyPageController@myPage')->name('myPage');

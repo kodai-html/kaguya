@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 
 class ProductController extends Controller
 {
+
     public function list() {
         return view('main/list');
     }
