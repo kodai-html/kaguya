@@ -7,8 +7,6 @@
   <title>Document</title>
 </head>
 <body>
-  <div>
-    <h2>Hello World</h2>
-  </div>
+  <p>home画面である</p>
 </body>
 </html>
